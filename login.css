@@ -1,0 +1,42 @@
+body{
+    background-color: #F09FE0;
+}
+/* ini bagian atas  */
+.atas{
+    border: 2px solid;
+    width: 400px;
+    height: 300px;
+    margin-left: 33rem;
+    margin-top: 175px;
+    background-color: #050000ab;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.atas h1{
+    margin-left: 10rem;
+}
+
+/* Bagian Form */
+
+.atas form input{
+    margin:10px;
+    padding: 10px;
+    background-color: #050000;
+    width: 80%;
+    height: 50%;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.masuk{
+    border: none;
+    width: 85%;
+    height: 30px;
+    margin-left: 10px;
+    color: white;
+    background-color: #050000;
+    text-align: center;
+    border-radius: 5px;
+}
